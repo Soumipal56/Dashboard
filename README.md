@@ -76,4 +76,5 @@ Instant overview of business health and efficiency.
 6. 🖼️ Screenshots/Demos
    Sales dashboard for the year 2024–25 showing key metrics such as total sales, total cost, quantity by category, sales by supervisor, sales by state, and sales by brand, with visualizations including bar
    charts, a pie chart, and a map.
+   
    ![Dashboard Preview](https://github.com/Soumipal56/Sales_dashboard/blob/main/dashboard.png)

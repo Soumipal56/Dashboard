@@ -8,36 +8,36 @@
 3. 🧰 Tech Stack
  This dashboard was developed using the following technologies:
 
-• 📊 Power BI Desktop – Main tool for building interactive reports and dashboards.
+ • 📊 Power BI Desktop – Main tool for building interactive reports and dashboards.
 
-• ⚙️ Power Query – Used for data extraction, transformation, and loading (ETL).
+ • ⚙️ Power Query – Used for data extraction, transformation, and loading (ETL).
 
-• 🧠 DAX (Data Analysis Expressions) – For custom measures like total profit, total quantity, and brand-wise sales percentages.
+ • 🧠 DAX (Data Analysis Expressions) – For custom measures like total profit, total quantity, and brand-wise sales percentages.
 
-• 🧩 Data Modeling – Structured relationships between tables for accurate cross-filtering and aggregations.
+ • 🧩 Data Modeling – Structured relationships between tables for accurate cross-filtering and aggregations.
 
-• 📁 File Format – Built using .pbix (Power BI project) and exported as .png for presentation.
+ • 📁 File Format – Built using .pbix (Power BI project) and exported as .png for presentation.
 
 4. 📂 Data Source
  Source: Internal company sales database (fictional data).
 
-• Contains sales records by product category, brand, supervisor, and Indian state.
+ • Contains sales records by product category, brand, supervisor, and Indian state.
 
-• Additional columns include sales amount, cost, profit, quantity sold, and transaction count.
+ • Additional columns include sales amount, cost, profit, quantity sold, and transaction count.
 
-• Geo-mapping enables regional analysis.
+ • Geo-mapping enables regional analysis.
 
 5. ✨ Features / Highlights
-• Business Problem
- Sales leadership lacked a unified, real-time view of sales across different hierarchies and dimensions — making performance tracking and strategic decisions inefficient.
+ • Business Problem
+   Sales leadership lacked a unified, real-time view of sales across different hierarchies and dimensions — making performance tracking and strategic decisions inefficient.
 
-• Goal of the Dashboard
- To centralize all sales-related insights in a single, interactive report that helps in:
+ • Goal of the Dashboard
+   To centralize all sales-related insights in a single, interactive report that helps in:
 
-• Monitoring supervisor and regional performance
-• Identifying high-performing product categories
-• Analyzing brand impact on revenue
-• Tracking key financial metrics (Sales, Cost, Profit)
+  • Monitoring supervisor and regional performance
+  • Identifying high-performing product categories
+  • Analyzing brand impact on revenue
+  • Tracking key financial metrics (Sales, Cost, Profit)
 
 • Walkthrough of Key Visuals
 🔹 KPI Cards (Right Sidebar)
